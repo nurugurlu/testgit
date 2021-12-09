@@ -1,5 +1,8 @@
 package hospital;
 
+/*
+ * Case Class
+ */
 public class Case {
 	
 
